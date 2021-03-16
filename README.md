@@ -10,3 +10,5 @@ Example:
 -String to replace (Cadena a reemplazar): new
 
 Output (Nueva cadena): newnewxnew
+
+![Example img](https://github.com/MiltonEBR/StringRemplacementAutomata/blob/main/STRReplacement.png)
