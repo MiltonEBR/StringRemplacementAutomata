@@ -31,12 +31,12 @@ public class MenuLenguajeRegular extends JFrame {
 		this.setResizable(false);
 		this.getContentPane().setBackground(new Color(224,224,224));
 		LineBorder border = new LineBorder(Color.BLACK, 1);
-		this.lbNombre = new JLabel("Milton Eduardo Barroso Ramírez.");
+		this.lbNombre = new JLabel("Milton Eduardo");
 		this.lbNombre.setBounds(10, -5, 300, 50);
 		this.lbNombre.setFont(new Font("Century Gothic",Font.PLAIN,15));
 		this.add(this.lbNombre);
 		
-		this.lbNombre = new JLabel("A01634505.");
+		this.lbNombre = new JLabel("");
 		this.lbNombre.setBounds(10, 15, 300, 50);
 		this.lbNombre.setFont(new Font("Century Gothic",Font.PLAIN,15));
 		this.add(this.lbNombre);
